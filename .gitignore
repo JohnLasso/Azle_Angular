@@ -40,3 +40,17 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+# Canisters
+/src/declarations
+.dfx
+.vessel
+.mops
+.azle
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
